@@ -9,10 +9,8 @@
 - A Developer
 - Loves a freshly brewed cup of tea
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![Metrics](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/main/github-metrics.svg)
 
-<!-- ![Metrics](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/github-metrics/achievements.svg) -->
+<!-- ![Notable contributions](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/github-metrics/notable.svg) -->
+
+![Achievements](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/main/metrics.plugin.achievements.compact.svg)
