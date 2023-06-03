@@ -10,7 +10,5 @@
 - Loves a freshly brewed cup of tea
 
 ![Metrics](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/main/github-metrics.svg)
-
-<!-- ![Notable contributions](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/github-metrics/notable.svg) -->
-
 ![Achievements](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/main/metrics.plugin.achievements.compact.svg)
+![Personalities](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/main/metrics.plugin.16personalities.svg)
