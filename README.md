@@ -22,14 +22,4 @@ Senior TypeScript engineer. Lately: AI agents, voice, and Rust on the desktop.
 
 - daily.dev: [@thinhkhang97](https://app.daily.dev/thinhkhang97)
 
-<details>
-<summary>📊 GitHub stats</summary>
-
-<br/>
-
 <a href="https://app.daily.dev/thinhkhang97"><img src="https://api.daily.dev/devcards/6c985048bdfc43b79e3d1c61650cd944.png?r=x9w" width="400" alt="Khang Nguyễn's Dev Card"/></a>
-
-![Metrics](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/main/github-metrics.svg)
-![Achievements](https://raw.githubusercontent.com/thinhkhang97/thinhkhang97/main/metrics.plugin.achievements.compact.svg)
-
-</details>
